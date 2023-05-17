@@ -1,0 +1,15 @@
+F:\Java\Projects\C#\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.exe
+F:\Java\Projects\C#\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.deps.json
+F:\Java\Projects\C#\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.runtimeconfig.json
+F:\Java\Projects\C#\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.dll
+F:\Java\Projects\C#\001_HelloConsole\bin\Debug\net6.0\001_HelloConsole.pdb
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.csproj.AssemblyReference.cache
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.AssemblyInfoInputs.cache
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.AssemblyInfo.cs
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.csproj.CoreCompileInputs.cache
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.dll
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\refint\001_HelloConsole.dll
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.pdb
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\001_HelloConsole.genruntimeconfig.cache
+F:\Java\Projects\C#\001_HelloConsole\obj\Debug\net6.0\ref\001_HelloConsole.dll
