@@ -24,3 +24,8 @@ else if (day == 5) Console.WriteLine("Пятница");
 else if (day == 6) Console.WriteLine("Суббота");
 else if (day == 7) Console.WriteLine("Воскресенье");
 else Console.WriteLine("Введено неверное значение");
+
+Console.WriteLine("Введите целое число");
+int num = Convert.ToInt32 (Console.ReadLine());
+string[] array = {"Понедельник", "Вторник"};
+System.Console.WriteLine(array[num-1]);
